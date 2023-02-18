@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
