@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
