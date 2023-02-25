@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update pyproject.toml and Docs (#7274)
