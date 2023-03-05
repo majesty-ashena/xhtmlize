@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
