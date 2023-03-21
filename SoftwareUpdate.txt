@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
