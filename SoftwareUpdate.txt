@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+Fix OpenVINO missing batch-size bug (#9264)
