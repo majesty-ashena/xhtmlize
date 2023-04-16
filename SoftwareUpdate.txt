@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
