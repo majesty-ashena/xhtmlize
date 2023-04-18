@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
