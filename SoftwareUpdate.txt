@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
