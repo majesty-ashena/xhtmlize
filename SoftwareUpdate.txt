@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
