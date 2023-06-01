@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+OpenVino 2024.0.0 (#8726)
