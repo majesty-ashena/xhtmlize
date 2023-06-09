@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
