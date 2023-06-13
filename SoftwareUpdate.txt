@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
