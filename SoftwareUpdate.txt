@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Allow Annotator PIL.Image inputs (#8397)
