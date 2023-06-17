@@ -1,1 +1,1 @@
-Add https://youtu.be/uDrn9QZJ2lk and object_counting.py, ai_gym.py updates (#9265)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
