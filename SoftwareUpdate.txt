@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Fix TypeError in check_cfg() (#9245)
