@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Fix Neural Magic links (#9144)
