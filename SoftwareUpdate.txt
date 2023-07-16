@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
