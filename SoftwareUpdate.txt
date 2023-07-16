@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
