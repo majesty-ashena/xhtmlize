@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
