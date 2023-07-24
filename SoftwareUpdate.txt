@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add HUB-SDK docs (#7775)
