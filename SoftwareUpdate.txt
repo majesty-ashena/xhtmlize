@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
