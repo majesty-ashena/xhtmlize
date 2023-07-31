@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
