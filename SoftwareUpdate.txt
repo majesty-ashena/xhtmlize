@@ -1,1 +1,1 @@
-fix predict with class filter
+Update Docs language dropdown height (#6927)
