@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Update Docs Home and Neural Magic pages (#7243)
