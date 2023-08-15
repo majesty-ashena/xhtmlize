@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
