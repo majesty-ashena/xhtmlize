@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Replace onnx2tf usage from CLI to Python (#8429)
