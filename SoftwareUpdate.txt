@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
