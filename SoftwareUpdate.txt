@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Update CI.md with CI links (#8786)
