@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
