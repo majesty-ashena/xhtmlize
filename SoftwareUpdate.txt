@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
