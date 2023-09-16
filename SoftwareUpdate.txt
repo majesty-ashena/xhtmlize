@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
