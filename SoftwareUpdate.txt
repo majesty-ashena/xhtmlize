@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+New HUB Cloud Training docs page (#8174)
