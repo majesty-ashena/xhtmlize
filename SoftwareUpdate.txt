@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
