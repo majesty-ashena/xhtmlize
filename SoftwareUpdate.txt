@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix Multi-GPU resume bug (#7328)
