@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Update CI.md with CI links (#8786)
