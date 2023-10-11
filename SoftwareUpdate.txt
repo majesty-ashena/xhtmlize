@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
