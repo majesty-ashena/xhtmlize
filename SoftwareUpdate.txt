@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Update the heatmap module code + docs (#7045)
