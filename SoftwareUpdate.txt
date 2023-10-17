@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Clarify triton server boolean value (#8532)
