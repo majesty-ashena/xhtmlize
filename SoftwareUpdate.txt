@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
