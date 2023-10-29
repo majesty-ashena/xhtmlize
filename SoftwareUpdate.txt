@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
