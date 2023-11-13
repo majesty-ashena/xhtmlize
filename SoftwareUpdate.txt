@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Resize angle, count, and stage on keypoint number change (#7598)
