@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
