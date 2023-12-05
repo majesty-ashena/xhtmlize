@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
