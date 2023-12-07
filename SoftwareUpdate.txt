@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Fix heatmaps width-height order bug (#7184)
