@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+YAML reformat (#7669)
