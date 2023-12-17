@@ -1,1 +1,1 @@
-Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
