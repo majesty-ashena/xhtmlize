@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
