@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Updated SQL Query Plot Code (#8120)
