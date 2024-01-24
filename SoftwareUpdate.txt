@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
