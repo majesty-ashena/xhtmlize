@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
