@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
