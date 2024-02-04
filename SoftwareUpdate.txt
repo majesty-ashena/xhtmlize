@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
