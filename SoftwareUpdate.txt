@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+docs: update view-results-in-terminal.md (#66)
