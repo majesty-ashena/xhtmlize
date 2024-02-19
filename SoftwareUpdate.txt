@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Replacing Images for torchscript.md (#8596)
