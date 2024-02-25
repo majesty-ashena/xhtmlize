@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update mkdocs.yml (#7693)
