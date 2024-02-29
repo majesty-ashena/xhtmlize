@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
