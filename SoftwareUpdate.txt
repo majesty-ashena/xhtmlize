@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Fix IS_PYTHON_3_12 bug (#9258)
