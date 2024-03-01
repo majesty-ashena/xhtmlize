@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
