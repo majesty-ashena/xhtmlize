@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Update format.yml to pull_request_target (#7460)
