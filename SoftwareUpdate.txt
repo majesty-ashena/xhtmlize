@@ -1,1 +1,1 @@
-example Google Colab
+Add missing single-line docstrings (#8362)
