@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Update Roboflow segmentation Docs pages (#8094)
