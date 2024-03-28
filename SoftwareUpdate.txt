@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+docs: update view-results-in-terminal.md (#66)
