@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
