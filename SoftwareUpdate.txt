@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
