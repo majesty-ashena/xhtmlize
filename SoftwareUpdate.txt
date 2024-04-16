@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add CoreML Docs Integrations Page (#8063)
