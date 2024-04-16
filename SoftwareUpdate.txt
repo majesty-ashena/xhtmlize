@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Auto-format by https://ultralytics.com/actions
