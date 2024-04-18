@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Update CI.md with CI links (#8786)
