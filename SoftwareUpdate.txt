@@ -1,1 +1,1 @@
-Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
+Update H1 in Explorer API docs (#7813)
