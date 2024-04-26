@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+OBB: Fix plot_images (#7592)
