@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Move Explorer tests to scheduled CI (#8305)
