@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
