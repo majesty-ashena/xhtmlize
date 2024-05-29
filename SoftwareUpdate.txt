@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Retry once for Docker CI failures (#8164)
