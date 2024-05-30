@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+New HUB Cloud Training docs page (#8174)
