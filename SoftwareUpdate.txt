@@ -1,1 +1,1 @@
-Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
