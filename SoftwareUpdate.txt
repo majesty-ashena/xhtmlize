@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
