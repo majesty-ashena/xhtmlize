@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
