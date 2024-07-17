@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Fix Multi-GPU resume bug (#7328)
