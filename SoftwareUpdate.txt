@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
