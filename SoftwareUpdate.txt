@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
