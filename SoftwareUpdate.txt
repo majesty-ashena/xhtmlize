@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
