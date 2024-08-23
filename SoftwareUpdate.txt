@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
