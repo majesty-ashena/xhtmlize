@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
