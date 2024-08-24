@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Clean up unused imgsz (#7771)
