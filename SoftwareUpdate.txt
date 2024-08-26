@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add Neural Magic Docs integrations page (#7234)
