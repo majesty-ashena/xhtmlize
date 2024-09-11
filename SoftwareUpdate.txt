@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Fix OpenVINO missing batch-size bug (#9264)
