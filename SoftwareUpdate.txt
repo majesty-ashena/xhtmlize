@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Update neural-magic.md (#7347)
