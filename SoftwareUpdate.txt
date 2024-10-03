@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Update the heatmap module code + docs (#7045)
